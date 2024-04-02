@@ -1,6 +1,6 @@
 # LanguageManager
 
-This is an open source Language Generator to practice and study this field of Automata Theory
+This is an open source Language Generator to practice and study grammar's field of Automata Theory
 
 ## Features
 
